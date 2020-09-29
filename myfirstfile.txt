@@ -1,1 +1,2 @@
+I just made a first attempt to change my txt file now!
 Hi! This is my first git hw
